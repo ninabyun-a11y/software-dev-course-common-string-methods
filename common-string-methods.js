@@ -84,7 +84,7 @@ let replacedString = inputString.replace(“JavaScript”,”coding”);
 let wordsArray = inputString.split(“ “); 
 
 // 4. Retrieving
-let firstCharacter = let firstCharacter = trimmedString.charAt(1);
+let firstCharacter = trimmedString.charAt(1);
 let extractedBootcamp = trimmedString.slice(22,29);
 
 // Log all results
